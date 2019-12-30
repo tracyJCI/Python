@@ -1,0 +1,10 @@
+/_.*[A-Z]
+/A.+
+selects from everything from undercsore and forward
+
+
+('_[0-9]+ [A-Z][a-z]+')  #dates question
+
+('_([0-9])+ ([A-Z][a-z]+)')
+
+|

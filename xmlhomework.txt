@@ -1,0 +1,1 @@
+#sex= element.xpath('./tei:sex/./@value', namespaces = ns)
